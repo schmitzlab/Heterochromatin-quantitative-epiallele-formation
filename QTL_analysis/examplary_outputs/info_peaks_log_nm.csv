@@ -1,0 +1,2 @@
+peak.marker,nearest.marker,chr,pos.cM,pos.bp,LOD,trait,increasing.epiallel,CI.lower.marker,CI.upper.marker,CI.lower.cM,CI.upper.cM
+MM11,MM11,1,100.491608583303,9574797,3.30048398245955,ID18,M,MM10,newMM93320,90.8259586185743,114.115546248416
